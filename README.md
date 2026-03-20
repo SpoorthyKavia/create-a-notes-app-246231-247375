@@ -1,1 +1,3 @@
-# create-a-notes-app-246231-247375
+# Project Repository
+
+This is the initial README file for the project.
